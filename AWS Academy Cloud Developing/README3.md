@@ -4,6 +4,10 @@
 1. A student is learning about Amazon Simple Storage Service (Amazon S3). During an
 interview, a potential employer asks the student to explain how Amazon S3 can be
 used as a storage solution. Which option is a use case for Amazon S3?
+    * Hosting active databases
+    * Data lake
+    * Shared file systems
+    * Block-level storage
 * Hosting active databases
 * Data lake
 * Shared file systems
@@ -13,6 +17,7 @@ used as a storage solution. Which option is a use case for Amazon S3?
 ---
 2. A organizes the Amazon Simple Storage Service (Amazon S3) namespace at the
 highest level.
+    * Container
 * Container
 * Bucket
 * Region
@@ -103,4 +108,5 @@ the assets are stored.
 where the assets are stored.
 
     answer: Cross-Origin Resource Sharing (CORS) has not been enabled on the bucket where the assets are stored.
+
 
