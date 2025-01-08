@@ -115,4 +115,3 @@ application?
 
     answer: * The data records in a data stream are distributed into shards.
 
-
